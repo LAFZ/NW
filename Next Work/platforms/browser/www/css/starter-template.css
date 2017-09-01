@@ -1,0 +1,50 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: justify;
+}
+
+.starter-template > h1{
+	text-align:center;
+}
+
+.starter-template .imagenes{
+	text-align: center;
+}
+
+.starter-template .imagenes > img{
+	width: 250px;
+	height: 150px;
+	margin-left: 20px;
+
+}
+.starter-template .utilities{
+	height: 40px;
+	border: 1px solid black !important;
+	border-radius: 5px;
+	box-shadow: -3px -1px 8px 4px rgba(0, 0, 0,0.3);
+}
+.starter-template .utilities > button{
+	color: red;
+}
+
+.starter-templante .elementos_centrados{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#elementMiddle{
+	width: 400px;
+}
+.footer{
+	text-align: center;
+	padding-top: 30%;
+}
+
+.footer-align{
+	text-align: center;
+
+}
